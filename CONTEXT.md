@@ -1,5 +1,5 @@
 # ARTEX — Darba konteksts
-> Auto-generated: 2026-11-22 18:46 | Branch: main | Pēdējais commits: 2026-11-22 18:33:05
+> Auto-generated: 2026-11-22 22:14 | Branch: main | Pēdējais commits: 2026-11-22 18:53:27
 > Šis fails tiek ģenerēts automātiski pēc katras sesijas. NELABOT MANUĀLI.
 
 ## Pēdējie commiti
@@ -23,13 +23,12 @@ fff6157 feat(hardening): opt-in operator approval for acquiring third-party code
 
 ## Mainītie faili (pēdējie 3 commiti)
 ```
- CONTEXT.md | 11 ++++-------
- 1 file changed, 4 insertions(+), 7 deletions(-)
+ CONTEXT.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
 ```
 
 ## Uncommitted darbs
-**1 faili ar uncommitted izmaiņām:**
- M CONTEXT.md
+Nav uncommitted izmaiņu.
 
 ## Aktīvie lēmumi
 (DECISIONS.md nav vai tukšs)
