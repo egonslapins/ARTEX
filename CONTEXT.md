@@ -1,5 +1,5 @@
 # ARTEX — Darba konteksts
-> Auto-generated: 2026-11-22 16:35 | Branch: main | Pēdējais commits: 2026-11-22 16:25:09
+> Auto-generated: 2026-11-22 17:32 | Branch: main | Pēdējais commits: 2026-11-22 16:35:28
 > Šis fails tiek ģenerēts automātiski pēc katras sesijas. NELABOT MANUĀLI.
 
 ## Pēdējie commiti
@@ -23,16 +23,13 @@ fff6157 feat(hardening): opt-in operator approval for acquiring third-party code
 
 ## Mainītie faili (pēdējie 3 commiti)
 ```
- hardening/apply-intercept-rules.sh      |  23 +++++
- hardening/intercept-rules.sql           |  51 +++++++++++
- hardening/rulecheck_test.go             | 153 ++++++++++++++++++++++++++++++++
- skills/third-party-code-review/SKILL.md |  55 ++++++++++++
- 6 files changed, 366 insertions(+)
+ CONTEXT.md                              | 38 +++++++++++++++++++++++++++++++++
+ skills/third-party-code-review/SKILL.md |  7 +++---
+ 2 files changed, 42 insertions(+), 3 deletions(-)
 ```
 
 ## Uncommitted darbs
-**1 faili ar uncommitted izmaiņām:**
- M CONTEXT.md
+Nav uncommitted izmaiņu.
 
 ## Aktīvie lēmumi
 (DECISIONS.md nav vai tukšs)
